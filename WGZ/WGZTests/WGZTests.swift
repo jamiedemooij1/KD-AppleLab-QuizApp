@@ -1,14 +1,14 @@
 //
-//  QuizAppTests.swift
-//  QuizAppTests
+//  WGZTests.swift
+//  WGZTests
 //
-//  Created by SD on 21/03/2022.
+//  Created by SD on 04/04/2022.
 //
 
 import XCTest
-@testable import QuizApp
+@testable import WGZ
 
-class QuizAppTests: XCTestCase {
+class WGZTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

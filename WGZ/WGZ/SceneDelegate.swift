@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  QuizApp
+//  WGZ
 //
-//  Created by SD on 21/03/2022.
+//  Created by SD on 04/04/2022.
 //
 
 import UIKit
